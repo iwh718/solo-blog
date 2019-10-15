@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [docker修改容器文件，定制solo主题。](http://blog.borebooks.top/articles/2019/10/14/1571045765238.html)
 * [使用微信小程序新的订阅消息接口，主动推送。](http://blog.borebooks.top/articles/2019/10/13/1570978916605.html)
 * [使用Parcel打包构建Vue](http://blog.borebooks.top/articles/2019/10/08/1570500571251.html)
 * [使用Tensorflow运行FashionMnist数据集](http://blog.borebooks.top/articles/2019/09/21/1569045167650.html)
@@ -29,7 +30,6 @@
 * [微信小程序自定义波浪组件](http://blog.borebooks.top/articles/2019/08/20/1566313566665.html)
 * [android P（9.0）设备数据库导入，查询为空的问题。](http://blog.borebooks.top/articles/2019/08/20/1566313522198.html)
 * [html MAp coords 自适应热点图片宽度定位](http://blog.borebooks.top/articles/2019/08/20/1566313500528.html)
-* [ES6 Promise与Async的使用](http://blog.borebooks.top/articles/2019/08/20/1566313473496.html)
 
 ### 热门
 
@@ -37,22 +37,22 @@
 * [本站为IWH冬的个人博客，博客逐步从CSDN迁移过来！](http://blog.borebooks.top/hello-solo)
 * [PHP用CURL爬学校妙思文献图书馆（个人学习日志）](http://blog.borebooks.top/articles/2019/08/19/1566223957059.html)
 * [Vue引入Ant-Design组件库 并且使用JSX编写](http://blog.borebooks.top/articles/2019/08/20/1566256973917.html)
+* [使用Docker在windows搭建Solo博客](http://blog.borebooks.top/articles/2019/08/20/1566279538847.html)
 * [PHP CURL爬取文达图书馆数据](http://blog.borebooks.top/articles/2019/08/19/1566223919275.html)
 * [Ant-Design-Vue $nitication与$message全局配置](http://blog.borebooks.top/articles/2019/08/20/1566257002734.html)
 * [易班轻应用开发：PHP版](http://blog.borebooks.top/articles/2019/08/20/1566313291707.html)
-* [PHP 获取青果教务的验证码与登录，成绩查询](http://blog.borebooks.top/articles/2019/08/20/1566257152683.html)
-* [使用Docker在windows搭建Solo博客](http://blog.borebooks.top/articles/2019/08/20/1566279538847.html)
-* [我在南京实习的第11天](http://blog.borebooks.top/articles/2019/08/20/1566312004173.html)
 * [TornadoFx-Kotlin实战桌面应用开发之打包](http://blog.borebooks.top/articles/2019/08/19/1566223592903.html)
+* [PHP 获取青果教务的验证码与登录，成绩查询](http://blog.borebooks.top/articles/2019/08/20/1566257152683.html)
+* [我在南京实习的第11天](http://blog.borebooks.top/articles/2019/08/20/1566312004173.html)
 * [Kotlin安卓开发：Tablayout组件与Viewpage联动](http://blog.borebooks.top/articles/2019/08/19/1566223669646.html)
 * [基于ThinkPHP5.0的FastAdmin 部署测试后报错 PHP5.5](http://blog.borebooks.top/articles/2019/08/20/1566257114123.html)
 * [JavaScript小题目思考|对象中的this](http://blog.borebooks.top/articles/2019/08/20/1566313315215.html)
+* [ES6 Promise与Async的使用](http://blog.borebooks.top/articles/2019/08/20/1566313473496.html)
 * [微信小程序：图书馆助手||笔记](http://blog.borebooks.top/articles/2019/08/19/1566224158541.html)
+* [我在南京的实习生活2](http://blog.borebooks.top/articles/2019/08/20/1566256917756.html)
 * [ThinkPHP5.0 部署阿里云ECS后，控制器访问都是404 NotFound解决](http://blog.borebooks.top/articles/2019/08/20/1566257087390.html)
+* [android 混淆出错|安装闪退|class ImageView](http://blog.borebooks.top/articles/2019/08/20/1566312925155.html)
 * [微信小程序PHP后端接口使用JWT验证](http://blog.borebooks.top/articles/2019/08/20/1566313342993.html)
-* [Kotlin设计模式：观察者模式](http://blog.borebooks.top/articles/2019/08/19/1566224286724.html)
-* [Kotlin安卓：实现okhttp3持续登录，同步到webview](http://blog.borebooks.top/articles/2019/08/20/1566256793109.html)
-* [kotlin安卓开发：layout文件分类](http://blog.borebooks.top/articles/2019/08/20/1566256870403.html)
 
 ### 热议
 
@@ -64,6 +64,7 @@
 * [微信小程序视频视频背景与控制处理（笔记）](http://blog.borebooks.top/articles/2019/08/19/1566224186203.html)
 * [Kotlin获取组件对象的泛型方法](http://blog.borebooks.top/articles/2019/08/19/1566224211353.html)
 * [android MenuItem item的getactionView方法提示is deprecated 解决办法](http://blog.borebooks.top/articles/2019/08/19/1566224245877.html)
+* [Kotlin设计模式：观察者模式](http://blog.borebooks.top/articles/2019/08/19/1566224286724.html)
 * [Kotlin：安卓首页定时动画](http://blog.borebooks.top/articles/2019/08/20/1566256434359.html)
 * [Kotlin：okhttp3中的异常处理](http://blog.borebooks.top/articles/2019/08/20/1566256493222.html)
 * [C++实现控制台版图书管理DEMO](http://blog.borebooks.top/articles/2019/08/20/1566256533720.html)
@@ -74,8 +75,7 @@
 * [Kotlin安卓开发：webView动态注入JS修改嵌入的iframe样式](http://blog.borebooks.top/articles/2019/08/20/1566256705864.html)
 * [kotlin安卓：每天一个组件 常用对话框](http://blog.borebooks.top/articles/2019/08/20/1566256743041.html)
 * [kotlin设置actionbar和状态栏颜色一致](http://blog.borebooks.top/articles/2019/08/20/1566256768108.html)
-* [React实现题目的小组件](http://blog.borebooks.top/articles/2019/08/20/1566256818411.html)
-* [Kotlin安卓开发：导入外部数据库](http://blog.borebooks.top/articles/2019/08/20/1566256840351.html)
+* [Kotlin安卓：实现okhttp3持续登录，同步到webview](http://blog.borebooks.top/articles/2019/08/20/1566256793109.html)
 
 ---
 
