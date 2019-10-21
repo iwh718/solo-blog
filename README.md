@@ -39,20 +39,20 @@
 * [PHP用CURL爬学校妙思文献图书馆（个人学习日志）](http://blog.borebooks.top/articles/2019/08/19/1566223957059.html)
 * [Vue引入Ant-Design组件库 并且使用JSX编写](http://blog.borebooks.top/articles/2019/08/20/1566256973917.html)
 * [我在南京实习的第11天](http://blog.borebooks.top/articles/2019/08/20/1566312004173.html)
+* [TornadoFx-Kotlin实战桌面应用开发之打包](http://blog.borebooks.top/articles/2019/08/19/1566223592903.html)
 * [PHP CURL爬取文达图书馆数据](http://blog.borebooks.top/articles/2019/08/19/1566223919275.html)
 * [Ant-Design-Vue $nitication与$message全局配置](http://blog.borebooks.top/articles/2019/08/20/1566257002734.html)
 * [易班轻应用开发：PHP版](http://blog.borebooks.top/articles/2019/08/20/1566313291707.html)
-* [TornadoFx-Kotlin实战桌面应用开发之打包](http://blog.borebooks.top/articles/2019/08/19/1566223592903.html)
 * [PHP 获取青果教务的验证码与登录，成绩查询](http://blog.borebooks.top/articles/2019/08/20/1566257152683.html)
 * [Kotlin安卓开发：Tablayout组件与Viewpage联动](http://blog.borebooks.top/articles/2019/08/19/1566223669646.html)
 * [基于ThinkPHP5.0的FastAdmin 部署测试后报错 PHP5.5](http://blog.borebooks.top/articles/2019/08/20/1566257114123.html)
 * [JavaScript小题目思考|对象中的this](http://blog.borebooks.top/articles/2019/08/20/1566313315215.html)
+* [ES6 Promise与Async的使用](http://blog.borebooks.top/articles/2019/08/20/1566313473496.html)
 * [微信小程序：图书馆助手||笔记](http://blog.borebooks.top/articles/2019/08/19/1566224158541.html)
 * [Kotlin安卓开发：导入外部数据库](http://blog.borebooks.top/articles/2019/08/20/1566256840351.html)
 * [我在南京的实习生活2](http://blog.borebooks.top/articles/2019/08/20/1566256917756.html)
 * [ThinkPHP5.0 部署阿里云ECS后，控制器访问都是404 NotFound解决](http://blog.borebooks.top/articles/2019/08/20/1566257087390.html)
 * [Kotlin安卓开发：组件Spinner使用](http://blog.borebooks.top/articles/2019/08/20/1566312691491.html)
-* [android 混淆出错|安装闪退|class ImageView](http://blog.borebooks.top/articles/2019/08/20/1566312925155.html)
 
 ### 热议
 
