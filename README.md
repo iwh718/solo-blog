@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [我的前端之路：10.27随笔](http://blog.borebooks.top/articles/2019/10/27/1572180208407.html)
 * [正则表达式快速解析微信订阅,模板消息的字段与值](http://blog.borebooks.top/articles/2019/10/23/1571803290230.html)
 * [微信小程序GET请求总，如果参数中出现’+'加号符号，发送到后台会出现空格](http://blog.borebooks.top/articles/2019/10/23/1571802725227.html)
 * [我的前端实习之路](http://blog.borebooks.top/articles/2019/10/18/1571328958610.html)
@@ -29,13 +30,13 @@
 * [微信小程序使用前端实现动态二维码海报分享（涉及云函数）](http://blog.borebooks.top/articles/2019/08/25/1566701972249.html)
 * [我的书单](http://blog.borebooks.top/articles/2019/08/23/1566522644284.html)
 * [如何定制solo的Freemark皮肤并预览](http://blog.borebooks.top/articles/2019/08/22/1566467677461.html)
-* [实习生活第12天](http://blog.borebooks.top/articles/2019/08/21/1566401413424.html)
 
 ### 热门
 
 * [我在 GitHub 上的开源项目](http://blog.borebooks.top/my-github-repos)
 * [本站为IWH冬的个人博客，博客逐步从CSDN迁移过来！](http://blog.borebooks.top/hello-solo)
 * [使用Docker在windows搭建Solo博客](http://blog.borebooks.top/articles/2019/08/20/1566279538847.html)
+* [实习生活第12天](http://blog.borebooks.top/articles/2019/08/21/1566401413424.html)
 * [我在南京实习的第11天](http://blog.borebooks.top/articles/2019/08/20/1566312004173.html)
 * [Vue引入Ant-Design组件库 并且使用JSX编写](http://blog.borebooks.top/articles/2019/08/20/1566256973917.html)
 * [PHP用CURL爬学校妙思文献图书馆（个人学习日志）](http://blog.borebooks.top/articles/2019/08/19/1566223957059.html)
@@ -45,14 +46,13 @@
 * [android P（9.0）设备数据库导入，查询为空的问题。](http://blog.borebooks.top/articles/2019/08/20/1566313522198.html)
 * [Kotlin安卓开发：Tablayout组件与Viewpage联动](http://blog.borebooks.top/articles/2019/08/19/1566223669646.html)
 * [PHP CURL爬取文达图书馆数据](http://blog.borebooks.top/articles/2019/08/19/1566223919275.html)
+* [我在南京的实习生活2](http://blog.borebooks.top/articles/2019/08/20/1566256917756.html)
 * [Ant-Design-Vue $nitication与$message全局配置](http://blog.borebooks.top/articles/2019/08/20/1566257002734.html)
 * [ES6 Promise与Async的使用](http://blog.borebooks.top/articles/2019/08/20/1566313473496.html)
-* [PHP 获取青果教务的验证码与登录，成绩查询](http://blog.borebooks.top/articles/2019/08/20/1566257152683.html)
-* [JavaScript小题目思考|对象中的this](http://blog.borebooks.top/articles/2019/08/20/1566313315215.html)
-* [微信小程序PHP后端接口使用JWT验证](http://blog.borebooks.top/articles/2019/08/20/1566313342993.html)
 * [微信小程序初体验笔记（图书馆爬虫）](http://blog.borebooks.top/articles/2019/08/19/1566223997700.html)
-* [我在南京的实习生活2](http://blog.borebooks.top/articles/2019/08/20/1566256917756.html)
-* [android 混淆出错|安装闪退|class ImageView](http://blog.borebooks.top/articles/2019/08/20/1566312925155.html)
+* [kotlin安卓：每天一个组件 常用对话框](http://blog.borebooks.top/articles/2019/08/20/1566256743041.html)
+* [PHP 获取青果教务的验证码与登录，成绩查询](http://blog.borebooks.top/articles/2019/08/20/1566257152683.html)
+* [Kotlin：支付宝app支付接入，沙箱demo，PHP服务端签名](http://blog.borebooks.top/articles/2019/08/20/1566313026471.html)
 
 ### 热议
 
@@ -73,9 +73,9 @@
 * [Kotlin开发 SQLite使用](http://blog.borebooks.top/articles/2019/08/20/1566256636273.html)
 * [kotlin安卓：每天一个组件：自定义组件](http://blog.borebooks.top/articles/2019/08/20/1566256665808.html)
 * [Kotlin安卓开发：webView动态注入JS修改嵌入的iframe样式](http://blog.borebooks.top/articles/2019/08/20/1566256705864.html)
-* [kotlin安卓：每天一个组件 常用对话框](http://blog.borebooks.top/articles/2019/08/20/1566256743041.html)
 * [kotlin设置actionbar和状态栏颜色一致](http://blog.borebooks.top/articles/2019/08/20/1566256768108.html)
 * [Kotlin安卓：实现okhttp3持续登录，同步到webview](http://blog.borebooks.top/articles/2019/08/20/1566256793109.html)
+* [React实现题目的小组件](http://blog.borebooks.top/articles/2019/08/20/1566256818411.html)
 
 ---
 
