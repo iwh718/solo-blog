@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [微信小程序：水波纹扩散特效，头像实践](http://blog.borebooks.top/articles/2019/10/30/1572365619157.html)
 * [生活笔记：我想有自己的空间与时间！](http://blog.borebooks.top/articles/2019/10/27/1572181108774.html)
 * [我的前端之路：10.27随笔](http://blog.borebooks.top/articles/2019/10/27/1572180208407.html)
 * [正则表达式快速解析微信订阅,模板消息的字段与值](http://blog.borebooks.top/articles/2019/10/23/1571803290230.html)
@@ -29,20 +30,20 @@
 * [练习题：Kotlin小玩意](http://blog.borebooks.top/articles/2019/08/29/1567051043104.html)
 * [立个小Flag：关于Vue的20个小问题，有空就一点点写。](http://blog.borebooks.top/articles/2019/08/25/1566703408311.html)
 * [微信小程序使用前端实现动态二维码海报分享（涉及云函数）](http://blog.borebooks.top/articles/2019/08/25/1566701972249.html)
-* [我的书单](http://blog.borebooks.top/articles/2019/08/23/1566522644284.html)
 
 ### 热门
 
 * [我在 GitHub 上的开源项目](http://blog.borebooks.top/my-github-repos)
 * [本站为IWH冬的个人博客，博客逐步从CSDN迁移过来！](http://blog.borebooks.top/hello-solo)
+* [我的书单](http://blog.borebooks.top/articles/2019/08/23/1566522644284.html)
 * [使用Docker在windows搭建Solo博客](http://blog.borebooks.top/articles/2019/08/20/1566279538847.html)
 * [实习生活第12天](http://blog.borebooks.top/articles/2019/08/21/1566401413424.html)
 * [如何定制solo的Freemark皮肤并预览](http://blog.borebooks.top/articles/2019/08/22/1566467677461.html)
 * [我在南京实习的第11天](http://blog.borebooks.top/articles/2019/08/20/1566312004173.html)
 * [Vue引入Ant-Design组件库 并且使用JSX编写](http://blog.borebooks.top/articles/2019/08/20/1566256973917.html)
+* [PHP CURL爬取文达图书馆数据](http://blog.borebooks.top/articles/2019/08/19/1566223919275.html)
 * [PHP用CURL爬学校妙思文献图书馆（个人学习日志）](http://blog.borebooks.top/articles/2019/08/19/1566223957059.html)
 * [微信小程序自定义波浪组件](http://blog.borebooks.top/articles/2019/08/20/1566313566665.html)
-* [PHP CURL爬取文达图书馆数据](http://blog.borebooks.top/articles/2019/08/19/1566223919275.html)
 * [TornadoFx-Kotlin实战桌面应用开发之打包](http://blog.borebooks.top/articles/2019/08/19/1566223592903.html)
 * [易班轻应用开发：PHP版](http://blog.borebooks.top/articles/2019/08/20/1566313291707.html)
 * [android P（9.0）设备数据库导入，查询为空的问题。](http://blog.borebooks.top/articles/2019/08/20/1566313522198.html)
@@ -52,7 +53,6 @@
 * [ES6 Promise与Async的使用](http://blog.borebooks.top/articles/2019/08/20/1566313473496.html)
 * [微信小程序初体验笔记（图书馆爬虫）](http://blog.borebooks.top/articles/2019/08/19/1566223997700.html)
 * [kotlin安卓：每天一个组件 常用对话框](http://blog.borebooks.top/articles/2019/08/20/1566256743041.html)
-* [PHP 获取青果教务的验证码与登录，成绩查询](http://blog.borebooks.top/articles/2019/08/20/1566257152683.html)
 
 ### 热议
 
