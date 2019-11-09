@@ -41,22 +41,23 @@
 * [使用Docker在windows搭建Solo博客](http://blog.borebooks.top/articles/2019/08/20/1566279538847.html)
 * [如何定制solo的Freemark皮肤并预览](http://blog.borebooks.top/articles/2019/08/22/1566467677461.html)
 * [实习生活第12天](http://blog.borebooks.top/articles/2019/08/21/1566401413424.html)
-* [微信小程序自定义波浪组件](http://blog.borebooks.top/articles/2019/08/20/1566313566665.html)
 * [PHP CURL爬取文达图书馆数据](http://blog.borebooks.top/articles/2019/08/19/1566223919275.html)
+* [微信小程序自定义波浪组件](http://blog.borebooks.top/articles/2019/08/20/1566313566665.html)
 * [我在南京实习的第11天](http://blog.borebooks.top/articles/2019/08/20/1566312004173.html)
-* [练习题：Kotlin小玩意](http://blog.borebooks.top/articles/2019/08/29/1567051043104.html)
 * [Vue引入Ant-Design组件库 并且使用JSX编写](http://blog.borebooks.top/articles/2019/08/20/1566256973917.html)
+* [练习题：Kotlin小玩意](http://blog.borebooks.top/articles/2019/08/29/1567051043104.html)
 * [如何用JavaScript的for循环，原生和ES6写法|按秒依次输出指定数字](http://blog.borebooks.top/articles/2019/08/20/1566257223333.html)
 * [易班轻应用开发：PHP版](http://blog.borebooks.top/articles/2019/08/20/1566313291707.html)
 * [PHP用CURL爬学校妙思文献图书馆（个人学习日志）](http://blog.borebooks.top/articles/2019/08/19/1566223957059.html)
 * [Kotlin：支付宝app支付接入，沙箱demo，PHP服务端签名](http://blog.borebooks.top/articles/2019/08/20/1566313026471.html)
 * [android P（9.0）设备数据库导入，查询为空的问题。](http://blog.borebooks.top/articles/2019/08/20/1566313522198.html)
-* [Kotlin安卓开发：Tablayout组件与Viewpage联动](http://blog.borebooks.top/articles/2019/08/19/1566223669646.html)
-* [我在南京的实习生活2](http://blog.borebooks.top/articles/2019/08/20/1566256917756.html)
+* [JavaScript小题目思考|对象中的this](http://blog.borebooks.top/articles/2019/08/20/1566313315215.html)
+* [ES6 Promise与Async的使用](http://blog.borebooks.top/articles/2019/08/20/1566313473496.html)
 
 ### 热议
 
 * [TornadoFx-Kotlin实战桌面应用开发之打包](http://blog.borebooks.top/articles/2019/08/19/1566223592903.html)
+* [Kotlin安卓开发：Tablayout组件与Viewpage联动](http://blog.borebooks.top/articles/2019/08/19/1566223669646.html)
 * [微信小程序初体验笔记（图书馆爬虫）](http://blog.borebooks.top/articles/2019/08/19/1566223997700.html)
 * [关于unicode编码中&amp;amp;#和&amp;amp;#x转换中文问题](http://blog.borebooks.top/articles/2019/08/19/1566224033929.html)
 * [phpstudy服务器配置SSL时Apache无法启动解决](http://blog.borebooks.top/articles/2019/08/19/1566224068439.html)
@@ -75,7 +76,6 @@
 * [Kotlin开发 SQLite使用](http://blog.borebooks.top/articles/2019/08/20/1566256636273.html)
 * [kotlin安卓：每天一个组件：自定义组件](http://blog.borebooks.top/articles/2019/08/20/1566256665808.html)
 * [Kotlin安卓开发：webView动态注入JS修改嵌入的iframe样式](http://blog.borebooks.top/articles/2019/08/20/1566256705864.html)
-* [kotlin安卓：每天一个组件 常用对话框](http://blog.borebooks.top/articles/2019/08/20/1566256743041.html)
 
 ---
 
