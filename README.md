@@ -48,11 +48,11 @@
 * [微信小程序自定义波浪组件](http://blog.borebooks.top/articles/2019/08/20/1566313566665.html)
 * [PHP CURL爬取文达图书馆数据](http://blog.borebooks.top/articles/2019/08/19/1566223919275.html)
 * [我在南京实习的第11天](http://blog.borebooks.top/articles/2019/08/20/1566312004173.html)
-* [易班轻应用开发：PHP版](http://blog.borebooks.top/articles/2019/08/20/1566313291707.html)
 * [Kotlin：支付宝app支付接入，沙箱demo，PHP服务端签名](http://blog.borebooks.top/articles/2019/08/20/1566313026471.html)
+* [易班轻应用开发：PHP版](http://blog.borebooks.top/articles/2019/08/20/1566313291707.html)
 * [练习题：Kotlin小玩意](http://blog.borebooks.top/articles/2019/08/29/1567051043104.html)
 * [Vue引入Ant-Design组件库 并且使用JSX编写](http://blog.borebooks.top/articles/2019/08/20/1566256973917.html)
-* [如何用JavaScript的for循环，原生和ES6写法|按秒依次输出指定数字](http://blog.borebooks.top/articles/2019/08/20/1566257223333.html)
+* [android 混淆出错|安装闪退|class ImageView](http://blog.borebooks.top/articles/2019/08/20/1566312925155.html)
 
 ### 热议
 
